@@ -1,8 +1,4 @@
-streamlit
-google-genai
-beautifulsoup4
-pandas
-requests
-itsdangerous
-streamlit
+kivy
 google-generativeai
+pillow
+requests
